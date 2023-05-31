@@ -1,0 +1,21 @@
+﻿  Source.cpp
+d:\it10laba\it10laba\source.cpp(27): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+d:\it10laba\it10laba\source.cpp(28): warning C4244: =: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+d:\it10laba\it10laba\source.cpp(63): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+d:\it10laba\it10laba\source.cpp(64): warning C4305: инициализация: усечение из "double" в "float"
+d:\it10laba\it10laba\source.cpp(94): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+d:\it10laba\it10laba\source.cpp(108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  143 of 146 functions (97.9%) were compiled, the rest were copied from previous compilation.
+    142 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  IT10LABA.vcxproj -> D:\IT10LABA\x64\Release\IT10LABA.exe

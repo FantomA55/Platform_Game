@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "817fa22c-c735-4f77-8e64-0ea1fddd1f7e": {
+      "ProjectGuid": "817fa22c-c735-4f77-8e64-0ea1fddd1f7e",
+      "DisplayName": "IT10LABA",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

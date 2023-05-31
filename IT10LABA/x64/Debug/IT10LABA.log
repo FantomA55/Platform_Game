@@ -1,0 +1,2 @@
+﻿  Game.cpp
+D:\ИТ\IT10LABA\IT10LABA\Game.cpp(3,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
